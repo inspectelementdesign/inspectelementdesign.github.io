@@ -1,0 +1,45 @@
+.ied-logo {
+    height: 27em;
+}
+
+.thumbnail div.img-bg {
+    text-align: center;
+    width: 100%;
+}
+
+.thumbnail div.img-bg.img-hybrid-ionic {
+    background-color: #dcdac8;
+}
+
+.thumbnail div.img-bg.img-wordpress {
+    background-color: #464646;
+}
+
+.thumbnail div.img-bg.img-codeigniter {
+    background-color: #880e4f;
+}
+
+.thumbnail div.img-bg.img-html5 {
+    background-color: #5a7076;
+}
+
+.thumbnail div.img-bg img {
+    max-width: 100%;
+}
+
+.hero-logo {
+    height: 22em;
+}
+
+#services,
+#portfolio,
+#contact {
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+#services h2,
+#portfolio h2,
+#contact h2 {
+    margin-bottom: 2em;
+}
